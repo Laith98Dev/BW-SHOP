@@ -36,8 +36,8 @@ class Main extends PluginBase implements Listener {
 
 	const PREFIX = TextFormat::WHITE."SHOP".TextFormat::GRAY." ->".TextFormat::YELLOW." ";
 	const BRONZE = "Brick";
-  const SILVER = "Iron";
-  const GOLD = "Gold";
+ 	const SILVER = "Iron";
+  	const GOLD = "Gold";
 	private $menu;
 	
 	public function onEnable() : void{
