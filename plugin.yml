@@ -1,0 +1,11 @@
+name: BW-SHOP
+main: Pro\BWShop\Main
+api: [3.0.0, 4.0.0]
+author: "LaithYT"
+description: "BWShop for Pocketmine MP"
+version: 1.0.0
+
+commands:
+    bwshop:
+      description: "BedWars Shop"
+      usage: "/bwshop"
